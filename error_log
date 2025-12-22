@@ -1,0 +1,123 @@
+[01-Dec-2025 22:51:24 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'criado_em' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/api.php:181
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/api.php(181): mysqli->prepare('INSERT INTO dom...')
+#1 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/api.php on line 181
+[01-Dec-2025 22:51:39 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'criado_em' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/api.php:181
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/api.php(181): mysqli->prepare('INSERT INTO dom...')
+#1 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/api.php on line 181
+[01-Dec-2025 22:52:22 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'criado_em' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/api.php:181
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/api.php(181): mysqli->prepare('INSERT INTO dom...')
+#1 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/api.php on line 181
+[01-Dec-2025 22:54:46 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'criado_em' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/api.php:181
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/api.php(181): mysqli->prepare('INSERT INTO dom...')
+#1 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/api.php on line 181
+[02-Dec-2025 00:28:02 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'data_atualizacao' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php:65
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php(65): mysqli->prepare('INSERT INTO dom...')
+#1 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php on line 65
+[02-Dec-2025 00:29:02 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'data_atualizacao' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php:65
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php(65): mysqli->prepare('INSERT INTO dom...')
+#1 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php on line 65
+[02-Dec-2025 00:30:02 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'data_atualizacao' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php:65
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php(65): mysqli->prepare('INSERT INTO dom...')
+#1 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php on line 65
+[02-Dec-2025 00:31:02 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'data_atualizacao' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php:65
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php(65): mysqli->prepare('INSERT INTO dom...')
+#1 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php on line 65
+[02-Dec-2025 00:32:01 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'data_atualizacao' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php:65
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php(65): mysqli->prepare('INSERT INTO dom...')
+#1 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php on line 65
+[02-Dec-2025 00:33:02 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'data_atualizacao' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php:65
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php(65): mysqli->prepare('INSERT INTO dom...')
+#1 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php on line 65
+[02-Dec-2025 00:34:02 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'data_atualizacao' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php:65
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php(65): mysqli->prepare('INSERT INTO dom...')
+#1 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php on line 65
+[02-Dec-2025 00:35:01 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'data_atualizacao' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php:65
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php(65): mysqli->prepare('INSERT INTO dom...')
+#1 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php on line 65
+[02-Dec-2025 00:36:02 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'data_atualizacao' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php:65
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php(65): mysqli->prepare('INSERT INTO dom...')
+#1 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php on line 65
+[02-Dec-2025 00:37:01 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'data_atualizacao' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php:65
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php(65): mysqli->prepare('INSERT INTO dom...')
+#1 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/process_logs.php on line 65
+[02-Dec-2025 00:38:05 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'data_atualizacao' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/api.php:101
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/api.php(101): mysqli->prepare('INSERT INTO dom...')
+#1 /home1/tuaces44/acessaragora.digital/cloaker/api.php(237): log_access_fast('45.229.147.239', 'Mozilla/5.0 (Wi...', 'BRASIL - SITE N...', 'BR', 6, 2, Object(mysqli))
+#2 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/api.php on line 101
+[02-Dec-2025 00:38:26 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'data_atualizacao' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/api.php:101
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/api.php(101): mysqli->prepare('INSERT INTO dom...')
+#1 /home1/tuaces44/acessaragora.digital/cloaker/api.php(251): log_access_fast('89.111.27.35', 'Mozilla/5.0 (Wi...', 'INTERNACIONAL -...', 'LV', 6, 2, Object(mysqli))
+#2 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/api.php on line 101
+[02-Dec-2025 00:51:09 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'criado_em' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/api.php:181
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/api.php(181): mysqli->prepare('INSERT INTO dom...')
+#1 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/api.php on line 181
+[02-Dec-2025 02:20:20 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home1/tuaces44/acessaragora.digital/cloaker/api.php:135
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/api.php(135): mysqli_stmt->bind_param('iisiiiiiiiiiii', 2, 6, '2025-12-02', 0, 0, 1, 0, 1, 0, 0, 1, 0, 1)
+#1 /home1/tuaces44/acessaragora.digital/cloaker/api.php(270): log_access('89.111.27.35', 'Mozilla/5.0 (Wi...', 'INTERNACIONAL -...', '/cloaker/api.ph...', '63b9a1582412088...', 'LV', 6, 2, Object(mysqli), 'desktop')
+#2 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/api.php on line 135
+[02-Dec-2025 02:36:43 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'criado_em' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/api.php:204
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/api.php(204): mysqli->prepare('INSERT INTO dom...')
+#1 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/api.php on line 204
+[02-Dec-2025 02:37:08 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'criado_em' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/api.php:204
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/api.php(204): mysqli->prepare('INSERT INTO dom...')
+#1 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/api.php on line 204
+[02-Dec-2025 02:38:02 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'criado_em' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/api.php:204
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/api.php(204): mysqli->prepare('INSERT INTO dom...')
+#1 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/api.php on line 204
+[02-Dec-2025 02:39:27 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'criado_em' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/api.php:204
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/api.php(204): mysqli->prepare('INSERT INTO dom...')
+#1 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/api.php on line 204
+[04-Dec-2025 11:10:34 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'criado_em' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/api.php:219
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/api.php(219): mysqli->prepare('INSERT INTO dom...')
+#1 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/api.php on line 219
+[12-Dec-2025 15:33:43 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'criado_em' in 'field list' in /home1/tuaces44/acessaragora.digital/cloaker/api.php:219
+Stack trace:
+#0 /home1/tuaces44/acessaragora.digital/cloaker/api.php(219): mysqli->prepare('INSERT INTO dom...')
+#1 {main}
+  thrown in /home1/tuaces44/acessaragora.digital/cloaker/api.php on line 219
