@@ -1,0 +1,8 @@
+/cache
+/logs
+/vendor
+*.log
+*.sql
+*.mmdb
+.env
+conexao.php
